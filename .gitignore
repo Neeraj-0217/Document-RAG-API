@@ -157,4 +157,4 @@ uploads/
 *.pdf
 *.txt
 *.docx
-!requirements.txt
+requirements.txt
